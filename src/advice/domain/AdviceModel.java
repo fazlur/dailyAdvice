@@ -1,3 +1,5 @@
+package advice.domain;
+
 public class AdviceModel {
     private String advice;
 
